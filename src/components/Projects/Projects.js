@@ -40,8 +40,8 @@ function Projects() {
               isBlog={false}
               title="Shareme"
               description="An advanced image sharing social media app developed using HTML5, Tailwind CSS, ReactJS, and JavaScript. It incorporates features like Google authentication, allowing users to create, edit, delete, and save posts, as well as like, comment, and apply tag filtration. The app ensures a secure and seamless login experience for users through the implementation of Google-OAUTH2."
-              ghLink="https://github.com/Vinodk-17/Expense-Budget-Tracker/"
-              demoLink="https://github.com/VINODK-17/SHAREME"
+              ghLink="https://github.com/VINODK-17/SHAREME"
+              demoLink="https://share-me-8729.netlify.app/login"
             />
           </Col>
           <Col md={4} className="project-card">
