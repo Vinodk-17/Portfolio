@@ -89,7 +89,7 @@ function NavBar() {
                 // as={Link}
                 // to="/resume"
                 // onClick={() => updateExpanded(false)}
-                href="https://drive.google.com/file/d/1DpxzzGKsaELJ_OTAd_Kulg6Dwp_JAjn_/view?usp=sharing"
+                href="https://drive.google.com/file/d/1yc-wwhWg7e8UsrtuviiJNCQCvaNRLVwn/view?usp=sharing"
                 target="_blank"
                 rel="noreferrer"
               >
